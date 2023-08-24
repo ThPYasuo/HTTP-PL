@@ -1,2 +1,1 @@
-# HTTP-PL
-simple ddos script in perl
+# perl Http.pl https://sample.com 1000 100 100
