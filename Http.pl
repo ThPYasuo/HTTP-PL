@@ -154,5 +154,5 @@ sub layer7 {
 if($#ARGV > 2) {
     layer7();
 } else {
-    die("Usage: bty.pl <url> <threads> <sockets> <proxy>\n");
+    die("Usage: Http.pl <url> <10000> <100> <100>\n");
 }
